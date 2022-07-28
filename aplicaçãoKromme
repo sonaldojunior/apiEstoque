@@ -1,0 +1,19 @@
+
+
+-OK - POST a rota será ('/cadastro') nome da função será <createProduct>
+
+OK - GET a rota será ('/estoque') nome da função será <stockList> vai retornar a lista geral dos produtos
+
+OK - GET a rota será ('/estoque/:id') nome da função será <stockItem> retornara só um item
+
+OK PUT a rota será ('/estoque/:id') nome da função será <updateItem> atualizará o ietm modificado
+
+OK DELETE a rota será ('/estoque/:id') nome da função será <removeItem> 
+
+
+essa api terá estoque dinamico em 3 rotas, elas são iguais porém o method são diferentes
+como  GET para listar 1 item, o PUT para atualizar 1 item e o DELEte para remover 1 item
+
+
+OK-criar server
+OK- model criado e banco conectado

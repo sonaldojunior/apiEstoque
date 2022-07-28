@@ -1,0 +1,28 @@
+body{
+    background-color: rgba(19, 63, 206, 0.767);
+    margin: 20px;
+}
+h1{
+    color: beige;
+}
+a{
+color: beige;
+}
+
+
+
+.adicionar{
+    background-color: blue;
+}
+label{
+    color: beige;
+    margin: 8px;
+}
+input{
+    margin: 3px;
+    padding: 5px;
+    width: 300px;
+}
+.button{
+    width: 220px;
+}
